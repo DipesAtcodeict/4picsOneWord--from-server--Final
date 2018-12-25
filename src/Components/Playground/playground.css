@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-left: 30%;
+  height: 350px;
+  width: 350px;
+}
+
+.images {
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+}
+
+.input {
+  margin-left: 15%;
+  margin-top: 10%;
+}
